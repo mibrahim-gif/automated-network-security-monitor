@@ -1,25 +1,38 @@
-# 01 - Setup
+# 01 - Project Setup
 
 ## Objective
 
-Set up the Automated Network Security Monitor in Kali Linux.
+Set up the Automated Network Security Monitor in Kali Linux and verify that the required tools are available.
 
-## Requirements
+## Technologies
 
 - Kali Linux
 - Python 3
 - Nmap
-- Git
-- Linux cron
+- Linux
+- Git/GitHub
+- Cron
 
-## Project Directory
+## Project Architecture
 
 ```text
-automated-network-security-monitor/
-├── scanner.py
-├── baseline.json
-├── scans/
-├── reports/
-├── alerts/
-├── logs/
-└── docs/
+Kali Linux
+     |
+     v
+Python Scanner
+     |
+     v
+Nmap
+     |
+     v
+XML Scan Results
+     |
+     v
+Security Detection
+     |
+     v
+Baseline Comparison
+     |
+     +---------> Alerts
+     |
+     +---------> Security Reports
