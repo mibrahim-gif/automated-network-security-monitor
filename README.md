@@ -33,7 +33,8 @@ Alerts + Security Reports
     ▼
 Cron Automation
 
-# Repository Structure
+## Repository Structure
+
 automated-network-security-monitor/
 ├── README.md
 ├── scanner.py
