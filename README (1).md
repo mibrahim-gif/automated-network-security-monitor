@@ -63,7 +63,15 @@ automated-network-security-monitor/
 ## Example Output
 
 ```
-[paste a sanitized sample of your scanner output here]
+
+
+
+
+<img width="952" height="780" alt="Screenshot 2026-10-01 at 12 03 02 AM" src="https://github.com/user-attachments/assets/b83d24ff-0f60-4139-b5b0-ce6899cc42a4" />
+<img width="948" height="815" alt="Screenshot 2026-10-01 at 12 02 07 AM" src="https://github.com/user-attachments/assets/c0d7414e-6576-45c6-8f25-b113d645ee94" />
+<img width="1244" height="814" alt="Screenshot 2026-09-30 at 3 11 30 PM" src="https://github.com/user-attachments/assets/1e1ddc0c-9adc-4c28-b8ca-151332fddbcf" />
+
+
 ```
 
 ## Documentation
