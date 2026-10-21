@@ -59,22 +59,6 @@ automated-network-security-monitor/
     └── 05-automation.md
 ```
 
-## Quick Start
-
-```bash
-# Clone the repository
-git clone https://github.com/[your-username]/automated-network-security-monitor.git
-cd automated-network-security-monitor
-
-# Install dependencies (Kali Linux already includes nmap)
-sudo apt install nmap python3
-pip install -r requirements.txt   # if applicable
-
-# Run a scan
-python3 scanner.py
-```
-
-See [01-setup.md](docs/01-setup.md) for full setup instructions.
 
 ## Example Output
 
@@ -115,7 +99,7 @@ See [01-setup.md](docs/01-setup.md) for full setup instructions.
 
 ## Disclaimer
 
-This tool is for educational and defensive purposes. Only scan networks you own or have explicit written permission to test. The author is not responsible for misuse.
+This tool is for educational and defensive purposes. 
 
 ## License
 
