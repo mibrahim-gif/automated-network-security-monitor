@@ -60,16 +60,6 @@ automated-network-security-monitor/
 ```
 
 
-## Example Output
-
-```
-
-
-<img width="1244" height="814" alt="Screenshot 2026-09-30 at 3 11 30 PM" src="https://github.com/user-attachments/assets/c61db514-9214-4525-9bf3-3d7e7ad460de" />
-<img width="948" height="815" alt="Screenshot 2026-10-01 at 12 02 07 AM" src="https://github.com/user-attachments/assets/45d20764-2135-419c-b7a0-328ee4cbec65" />
-<img width="952" height="780" alt="Screenshot 2026-10-01 at 12 03 02 AM" src="https://github.com/user-attachments/assets/ba16753e-1efa-4f86-b0c2-5ee003c59f9a" />
-
-
 
 ```
 
