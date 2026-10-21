@@ -34,7 +34,7 @@ Alerts + Security Reports
 Cron Automation
 
 ## Repository Structure
-
+'''
 automated-network-security-monitor/
 ├── README.md
 ├── scanner.py
@@ -46,3 +46,4 @@ automated-network-security-monitor/
     ├── 03-baseline-monitoring.md
     ├── 04-reporting.md
     └── 05-automation.md
+'''
