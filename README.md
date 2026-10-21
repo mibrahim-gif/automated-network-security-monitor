@@ -32,3 +32,16 @@ Alerts + Security Reports
     │
     ▼
 Cron Automation
+
+# Repository Structure
+automated-network-security-monitor/
+├── README.md
+├── scanner.py
+├── baseline.json
+├── .gitignore
+└── docs/
+    ├── 01-setup.md
+    ├── 02-security-detection.md
+    ├── 03-baseline-monitoring.md
+    ├── 04-reporting.md
+    └── 05-automation.md
