@@ -98,6 +98,4 @@ automated-network-security-monitor/
 
 This tool is for educational and defensive purposes. 
 
-## License
 
-[MIT / your choice] (add a `LICENSE` file)
